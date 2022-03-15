@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/MyQuote/app/src/main/res/layout/activity_list_quotes.xml" value="0.1" />
         <entry key="..\:/Users/heruy/AndroidStudioProjects/MyQuote/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/MyQuote/app/src/main/res/layout/item_quote.xml" value="0.12771739130434784" />
       </map>
     </option>
   </component>
